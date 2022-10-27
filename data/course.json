@@ -1,26 +1,147 @@
 [
     {
-      "id": "01",
-      "name": "Cat-One"
+      "_id": "1",
+      
+      "category_id": "01",
+     
+      
+      "title": "Web Design Beginner to Advanced",
+      "author": {
+        "name": "Saif Ali"
+        
+      },
+     
+      "image_url": "https://img.freepik.com/free-vector/cartoon-web-design-background_52683-70879.jpg?w=2000",
+      "details": "Responsive web design works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
     },
-    {
-      "id": "02",
-      "name": "Cat-Two"
+
+ {
+      "_id": "2",
+      
+      "category_id": "04",
+     
+      
+      "title": "Adobe Premiere Pro Advanced Course",
+      "author": {
+        "name": "Kuddus"
+        
+      },
+     
+      "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2021/07/adobe-premiere-pro-9to5mac.jpg?quality=82&strip=all&w=1600",
+      "details": "Adobe Premiere pro works with the changes to the appearance of a Screen depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
     },
-    {
-      "id": "03",
-      "name": "Cat-Three"
+
+ {
+      "_id": "3",
+      
+      "category_id": "03",
+     
+      
+      "title": "Javascript Crash Course",
+      "author": {
+        "name": "Abdul Sadi"
+        
+      },
+     
+      "image_url": "https://camo.githubusercontent.com/146619ea5e1302a387ccd09ef32fb03f973c58b079fd116c985bf55bb1d0c319/68747470733a2f2f692e6962622e636f2f4e545678316a572f646f776e6c6f61642e6a7067",
+      "details": "Javascript works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
     },
-    {
-      "id": "04",
-      "name": "Cat-Four"
+
+ {
+      "_id": "4",
+      
+      "category_id": "05",
+     
+      
+      "title": "Digital Marketing Pro",
+      "author": {
+        "name": "Salman Ali"
+        
+      },
+     
+      "image_url": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=2000",
+      "details": "Digital Marketing works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
     },
-    {
-      "id": "05",
-      "name": "Cat-Five"
+
+ {
+      "_id": "5",
+      
+      "category_id": "03",
+     
+      
+      "title": "C++ Beginner To Advanced",
+      "author": {
+        "name": "Mokarrom Hossain"
+        
+      },
+     
+      "image_url": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+      "details": "C++ works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
     },
-    {
-      "id": "06",
-      "name": "Cat-Six"
+
+ {
+      "_id": "6",
+      
+      "category_id": "02",
+     
+      
+      "title": "Illustrator Beginner Course",
+      "author": {
+        "name": "Habib Kibria"
+        
+      },
+     
+      "image_url": "https://www.crea.nl/wp-content/uploads/2022/06/cursus-filmdesignandmedia-2223-illustrator-840x400-1.jpg",
+      "details": "Illustrator works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
+    },
+
+ {
+      "_id": "7",
+      
+      "category_id": "01",
+     
+      
+      "title": "Laravel for Advanced",
+      "author": {
+        "name": "Ali mokarram"
+        
+      },
+     
+      "image_url": "https://embed-ssl.wistia.com/deliveries/fece433e54f817872309273fb46fe6e9.jpg",
+      "details": "Laravel works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
+    },
+
+ {
+      "_id": "8",
+      
+      "category_id": "03",
+     
+      
+      "title": "Python Crash Course",
+      "author": {
+        "name": "Saif Ali"
+        
+      },
+     
+      "image_url": "https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp",
+      "details": "Python works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
+    },
+
+ {
+      "_id": "9",
+      
+      "category_id": "05",
+     
+      
+      "title": "Digital Marketing for Beginners",
+      "author": {
+        "name": "Kebria Ali"
+        
+      },
+     
+      "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
+      "details": "This Marketing Course works with the changes to the appearance of a website depending upon the screen size and orientation of the device being used to view it. It is a vital aspect of today’s online platform. It controls content width, and images to fit with the screen width. Thus it improves the overall user experience, and gathers more traffic and leads. Responsive web design is the best way to optimize the experience of a website.There are many responsive web designing job opportunities in the marketplaces. Besides, web design is in high demand in the freelancing market. We will guide you on how to find work on freelancing markets like- Fiverr, Upwork, Freelancer.com, etc. The best part of the course is you can do it online. So you won’t have to think about facing traffic and travel issues while attending the course. So take admission today and ensure your career for the future."
     }
+
+ 
   ]
